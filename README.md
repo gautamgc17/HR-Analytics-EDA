@@ -1,4 +1,4 @@
-# HR and Jobs Analytics - EDA Project
+# EDA Project: HR and Jobs Analytics
 
 - Every company has a HR department which deals with various recruitment and placement related work of the company. Here in this Exploratory Data Analysis Project, 
 various statistical and visual insights are extracted which can be useful for HR deptartment to work on and to gain knowledge about the recruitment process of the market.
